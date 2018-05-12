@@ -1,0 +1,29 @@
+_repo: The-Doers_27650
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27650-h/images/cover.png
+creator:
+  author:
+    agent_name: Hopkins, William John
+    alias: Hopkins, William J.
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '32818'
+    url: http://www.gutenberg.org/2009/agents/32818
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27650'
+  lccn: '14018904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'House construction -- Juvenile literature'
+- !lcsh 'Readers (Elementary)'
+title: The Doers
+url: http://www.gutenberg.org/ebooks/27650
